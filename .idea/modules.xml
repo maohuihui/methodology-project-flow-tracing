@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pmm.iml" filepath="$PROJECT_DIR$/.idea/pmm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/methodology-project-flow-tracing.iml" filepath="$PROJECT_DIR$/.idea/methodology-project-flow-tracing.iml" />
     </modules>
   </component>
 </project>
